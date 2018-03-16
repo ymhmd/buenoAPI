@@ -19,7 +19,7 @@
 ### buenoAPI main five components
 
 1. Root: which contains all project files
-2. Test Data: in which the automation tester can load all XLS files they need to be reused all over the project.
+2. Test Data: in which the automation tester can load all XLS files they need to be reused all over the project. For more details about writing test data, you have to check this link: https://github.com/ymhmd/API-Testing-Automation-Framework
 
 3. Test Suite: project can be divided into test suites to be more organized. Test suite is the smallest project component to be executed and to be integrated with Jira. For each test suite, two parameters should be set, the first called `Threads` which helps the parallel execution in case number of threads is more than one, the second called `Verbose` which indicates how much details of test suite execution on logs section. In case Jira integration is enabled, you must set more parameters related to your Jira account and project. Lets have a look on them:
   - `Domain`: Jira domain
