@@ -67,10 +67,10 @@
 
 7. Create *Test Suite*:
  - Right click on Root node > Add
- ![alt text](screenshots/add_suite_1.PNG)
+ ![alt text](screenshots/add_suite_1.png)
 
  - Enter test suite name (i.e. DemoSuite) > Ok
- ![alt text](screenshots/add_suite_2.PNG)
+ ![alt text](screenshots/add_suite_2.png)
 
 
 8. Add suite parameters without Jira integration:
@@ -96,7 +96,7 @@
 
 12. Add *Task* under *Test Suite*
  - Right click on *Test Suite* > Click Add in the menu
- ![alt text](screenshots/add_task_1.PNG)
+ ![alt text](screenshots/add_task_1.png)
  
  - Enter *Task* name (i.e. Task) > Ok
  - Task is created
@@ -105,7 +105,7 @@
  - Set `Excel File` to one of XLS files imported in the project
  - Set `Excel Sheet` to sheet name in the selected XLS file
  - Right click on *Task* > Save
- ![alt text](screenshots/task_params.PNG)
+ ![alt text](screenshots/task_params.png)
  
  
 14. Execution 
